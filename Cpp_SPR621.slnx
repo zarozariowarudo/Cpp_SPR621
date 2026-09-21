@@ -4,6 +4,7 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="02_hw.cpp/02_hw.cpp.vcxproj" Id="5292a03b-c1cc-4146-bead-5b90c6bc031a" />
+  <Project Path="02_hw2/02_hw2.vcxproj" Id="cbfbc074-b30a-42d7-b58c-f3d428de7bf5" />
   <Project Path="02_logicOperators/02_logicOperators.vcxproj" Id="b6d82092-dc4d-4111-b338-9a7b47e7d896" />
   <Project Path="D:/Programming/cpp_project/ItSTEP/Cpp_SPR621/01_Intro/01_Intro.vcxproj" Id="246f3c28-6e4b-4f2f-b789-a54fb2293ae3" />
 </Solution>
