@@ -12,6 +12,8 @@
   <Project Path="04_hwArrays/04_hwArrays.vcxproj" Id="0ef26c2f-3ccd-4ecd-aea6-578f11b5fea9" />
   <Project Path="04_lesson/04_lesson.vcxproj" Id="f097a572-0378-4187-acbc-15b96e38cc2d" />
   <Project Path="04_practical/04_practical.vcxproj" Id="bbb11b87-e475-4965-8eb5-06780ef3a3e0" />
+  <Project Path="06_practical/06_practical.vcxproj" Id="6735f84c-0363-4fb0-b22e-876b7c7542a0" />
+  <Project Path="06_Random_TwoDimensionArrays/06_Random_TwoDimensionArrays.vcxproj" Id="cf40181a-2814-4d51-9a2b-20f6752cdc3c" />
   <Project Path="D:/Programming/cpp_project/ItSTEP/Cpp_SPR621/01_Intro/01_Intro.vcxproj" Id="246f3c28-6e4b-4f2f-b789-a54fb2293ae3" />
   <Project Path="Enum. Loops/Enum. Loops.vcxproj" Id="bf63c7b0-a164-4636-8bb7-b6c1016fa1eb" />
 </Solution>
