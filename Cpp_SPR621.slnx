@@ -17,7 +17,9 @@
   <Project Path="06_Random_TwoDimensionArrays/06_Random_TwoDimensionArrays.vcxproj" Id="cf40181a-2814-4d51-9a2b-20f6752cdc3c" />
   <Project Path="07/07.vcxproj" Id="25de11bf-b826-4e56-8268-127f2616cce6" />
   <Project Path="08_practical/08_practical.vcxproj" Id="d4203f4c-ac03-40bc-91c4-7030d769a4b6" />
+  <Project Path="09_recursioon/09_recursioon.vcxproj" Id="6cb6cbc4-0035-46a6-bc73-1e566efeba31" />
   <Project Path="D:/Programming/cpp_project/ItSTEP/Cpp_SPR621/01_Intro/01_Intro.vcxproj" Id="246f3c28-6e4b-4f2f-b789-a54fb2293ae3" />
   <Project Path="Enum. Loops/Enum. Loops.vcxproj" Id="bf63c7b0-a164-4636-8bb7-b6c1016fa1eb" />
   <Project Path="Homework/Homework.vcxproj" Id="a033d3dc-8f10-4a74-80cb-d1d21499b651" />
+  <Project Path="LinearSearch_Sorting/LinearSearch_Sorting.vcxproj" Id="eda548fa-2308-4d6b-8d5a-7bf137191fc5" />
 </Solution>
