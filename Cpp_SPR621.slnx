@@ -23,6 +23,9 @@
   <Project Path="10_homework/10_homework.vcxproj" Id="a4948454-f196-423b-9fe2-b17a07701234" />
   <Project Path="10_Pointers/10_Pointers.vcxproj" Id="27708b03-4295-4bd8-9b05-a812140a4136" />
   <Project Path="10_practical/10_practical.vcxproj" Id="2571d67d-8065-4104-8303-c90ac6bf6217" />
+  <Project Path="11_links/11_links.vcxproj" Id="5e85afcc-d0be-47dd-945b-aeca538bec28" />
+  <Project Path="14/14.vcxproj" Id="5dc9705a-2053-4889-86f5-456d903644f1" />
+  <Project Path="14_c_str/14_c_str.vcxproj" Id="7b7bc7cf-ff99-43b4-8999-5e7ac7a267a9" />
   <Project Path="D:/Programming/cpp_project/ItSTEP/Cpp_SPR621/01_Intro/01_Intro.vcxproj" Id="246f3c28-6e4b-4f2f-b789-a54fb2293ae3" />
   <Project Path="Enum. Loops/Enum. Loops.vcxproj" Id="bf63c7b0-a164-4636-8bb7-b6c1016fa1eb" />
   <Project Path="Homework/Homework.vcxproj" Id="a033d3dc-8f10-4a74-80cb-d1d21499b651" />
