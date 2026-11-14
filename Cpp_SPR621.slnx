@@ -28,8 +28,11 @@
   <Project Path="14_c_str/14_c_str.vcxproj" Id="7b7bc7cf-ff99-43b4-8999-5e7ac7a267a9" />
   <Project Path="14_hw1/14_hw1.vcxproj" Id="ad502ce2-d392-4e1a-999c-cd280e3fb981" />
   <Project Path="14_hw2/14_hw2.vcxproj" Id="243f715f-5ec0-4676-b120-023ff8f4a0bd" />
+  <Project Path="16_practical/16_practical.vcxproj" Id="05294644-aab5-4014-9ad4-7bb649129219" />
+  <Project Path="16_TwoDimensDynArr/16_TwoDimensDynArr.vcxproj" Id="b99abfae-68e3-4510-b2db-0e7a099f8d13" />
   <Project Path="D:/Programming/cpp_project/ItSTEP/Cpp_SPR621/01_Intro/01_Intro.vcxproj" Id="246f3c28-6e4b-4f2f-b789-a54fb2293ae3" />
   <Project Path="Enum. Loops/Enum. Loops.vcxproj" Id="bf63c7b0-a164-4636-8bb7-b6c1016fa1eb" />
   <Project Path="Homework/Homework.vcxproj" Id="a033d3dc-8f10-4a74-80cb-d1d21499b651" />
   <Project Path="LinearSearch_Sorting/LinearSearch_Sorting.vcxproj" Id="eda548fa-2308-4d6b-8d5a-7bf137191fc5" />
+  <Project Path="test/test.vcxproj" Id="d2be5667-0b64-499d-b573-0e8d2272dde4" />
 </Solution>
