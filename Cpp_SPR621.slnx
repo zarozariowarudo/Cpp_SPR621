@@ -32,6 +32,8 @@
   <Project Path="16_TwoDimensDynArr/16_TwoDimensDynArr.vcxproj" Id="b99abfae-68e3-4510-b2db-0e7a099f8d13" />
   <Project Path="18_practical/18_practical.vcxproj" Id="8637a613-0444-440c-a603-430b979f9d9b" />
   <Project Path="18_Struct/18_Struct.vcxproj" Id="26675997-5b35-4240-9bef-3a73d655be1c" />
+  <Project Path="19_files/19_files.vcxproj" Id="6c55676b-4757-48d8-a4af-d0cf8b95dc51" />
+  <Project Path="19_hw_Book/19_hw_Book.vcxproj" Id="3f6ec48a-8da9-4b54-bd4a-bf8e3660840c" />
   <Project Path="D:/Programming/cpp_project/ItSTEP/Cpp_SPR621/01_Intro/01_Intro.vcxproj" Id="246f3c28-6e4b-4f2f-b789-a54fb2293ae3" />
   <Project Path="Enum. Loops/Enum. Loops.vcxproj" Id="bf63c7b0-a164-4636-8bb7-b6c1016fa1eb" />
   <Project Path="Homework/Homework.vcxproj" Id="a033d3dc-8f10-4a74-80cb-d1d21499b651" />
